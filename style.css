@@ -566,11 +566,6 @@ textarea {
     }
 }
  
-@media (max-width:1700px) {
-    .home {
-        height: auto;
-    }
-}
  
 @media (max-width:1500px) {
     html {
@@ -620,7 +615,6 @@ textarea {
     }
 
     .home {
-        height: 100vh;
         padding-top: 5rem;
     }
 }
@@ -650,10 +644,7 @@ textarea {
 }
 
 @media (max-width:950px) {
-    .home {
-        height: auto;
-    }
-
+   
     html {
         font-size: 60%;
     }
@@ -738,10 +729,6 @@ textarea {
 @media (max-width:750px) {
     .hero-content h1 {
         line-height: 4rem;
-    }
-
-    .review {
-        font-size: 50%;
     }
 }
 
