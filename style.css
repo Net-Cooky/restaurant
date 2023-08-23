@@ -154,9 +154,8 @@ span {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: var(--bg);
+    background-color: var(--other);
     padding: 5rem 7%;
-    border-bottom: 2px dashed var(--main);
 }
 
 
